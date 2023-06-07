@@ -5,13 +5,13 @@ import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword } f
 import { getFirestore, collection, QuerySnapshot, addDoc, onSnapshot, doc, updateDoc, deleteDoc } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
-  measurementId: ""
+  apiKey: "AIzaSyCTvP5aEQA5TVFnuQOdk8t66J51D7oF6W8",
+  authDomain: "projeto-iot-f41b2.firebaseapp.com",
+  projectId: "projeto-iot-f41b2",
+  storageBucket: "projeto-iot-f41b2.appspot.com",
+  messagingSenderId: "406835368645",
+  appId: "1:406835368645:web:ecacad274a0bb0982cd6ac",
+  measurementId: "G-G6YWJQCJTP"
 }
 
 initializeApp(firebaseConfig);

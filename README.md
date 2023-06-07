@@ -12,6 +12,7 @@ O aplicativo utiliza as seguintes dependências:
 
 - React Native: Framework de desenvolvimento de aplicativos móveis.
 - Firebase: Plataforma de desenvolvimento de aplicativos móveis e web do Google.
+- Certifique-se instalar a versão 16.16.0 do Node JS https://nodejs.org/en/blog/release/v16.16.0, será necessário desinstalar a versão acima da 16.16.0 caso você tenha.
 
 ## Configuração do Firebase
 
